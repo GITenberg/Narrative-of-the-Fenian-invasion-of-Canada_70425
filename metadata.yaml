@@ -1,0 +1,36 @@
+_repo: Narrative-of-the-Fenian-invasion-of-Canada_70425
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Somerville, Alexander
+    aliases:
+    - Somerville, A. (Alexander)
+    - Somerville, Alex. (Alexander)
+    birthdate: 1811
+    deathdate: 1885
+    gutenberg_agent_id: '55754'
+    url: http://www.gutenberg.org/2009/agents/55754
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Somerville
+description: ''
+gutenberg_issued: '2023-03-31'
+identifiers:
+  gutenberg: '70425'
+  lccn: '46035646'
+language: en
+pgterms:marc904: https://archive.org/details/narrativeoffenia00some_0/page/n11/mode/2up
+pgterms:marc905: 20200313062559somerville
+pgterms:marc906: '1866'
+pgterms:marc907: CA
+production_note: Tim Lindell, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aCanada :$bJoseph Lyght, $c1866.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- History -- Fenian Invasions, 1866-1870'
+- !lcc 'F1001'
+- GITenberg
+title: Narrative of the Fenian invasion of Canada
+url: http://www.gutenberg.org/ebooks/70425
